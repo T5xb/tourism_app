@@ -10,6 +10,7 @@ class DetailsScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(place.name),
+        backgroundColor: Colors.green[800],
       ),
       body: SingleChildScrollView(
         child: Column(
