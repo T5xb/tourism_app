@@ -29,6 +29,13 @@ To ensure the highest quality, this project adheres to the following standards:
 | :---: | :---: | :---: | :---: | :---: | 
 | <img width="843" height="1832" alt="Screenshot 2026-02-22 222625" src="https://github.com/user-attachments/assets/b240f9fa-1139-4ab6-9adc-877ebe0845e5" />| <img width="830" height="1833" alt="Screenshot 2026-02-22 222639" src="https://github.com/user-attachments/assets/ba474af1-93a1-42c1-a16b-a451099bac10" />| <img width="828" height="1829" alt="Screenshot 2026-02-22 222711" src="https://github.com/user-attachments/assets/9059de29-dbdc-4527-aed9-6d98f9adcf0c" />| <img width="838" height="1817" alt="Screenshot 2026-02-22 222728" src="https://github.com/user-attachments/assets/6eec3807-d956-4e9d-84b9-49f353608f15" />| <img width="841" height="1829" alt="Screenshot 2026-02-22 222741" src="https://github.com/user-attachments/assets/83c07f84-bca6-474c-8753-6e2973667a7e" />|
 
+--- 
+
+## Database Screenshot
+
+<img width="3104" height="1747" alt="Screenshot 2026-02-22 225219" src="https://github.com/user-attachments/assets/08aa26ef-e646-49e0-b25d-7f846f157be1" />
+
+
 ---
 
 ## 🛠️ Tech Stack
