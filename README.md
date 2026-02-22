@@ -5,7 +5,7 @@ This project was developed as part of a high-performance bootcamp, demonstrating
 
 ---
 
-## 🏆 Key Achievements (Best Project Criteria)
+## 🏆 Key Achievements
 To ensure the highest quality, this project adheres to the following standards:
 
 ### 1. 🎨 Professional UI/UX
