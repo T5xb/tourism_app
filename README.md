@@ -3,11 +3,13 @@
 This project is a Flutter-based mobile application designed to showcase various tourist locations in Saudi Arabia. The application demonstrates proficiency in Flutter UI development, navigation, and structured code organization.
 
 ---
-#Home Screen
+# Home Screen
 
-<img width="862" height="1839" alt="Screenshot 2026-01-25 193138" src="https://github.com/user-attachments/assets/0acb308e-ee91-436a-9e96-ad7de1924d8e" />
+<img width="840" height="1836" alt="Screenshot 2026-01-26 040153" src="https://github.com/user-attachments/assets/603865f7-a4f1-44b7-affc-3f4945c87433" />
 
-# Details Screnn
 
-<img width="842" height="1839" alt="Screenshot 2026-01-25 193159" src="https://github.com/user-attachments/assets/1d5fccc3-24c2-470e-b848-7b2b5d1ce4f6" />
+# Details Screen
+
+<img width="818" height="1813" alt="Screenshot 2026-01-26 040210" src="https://github.com/user-attachments/assets/1bc52b5d-4ada-4007-80cf-195304b0b7f3" />
+
 
