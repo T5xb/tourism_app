@@ -10,7 +10,7 @@ class Place {
     return Place(
       name: json['name'] ?? 'No name',
       description: json['description'] ?? 'No description',
-      image: json['image'] ?? 'No image',
+      image: json['image_url'],
       location: json['location'] ?? 'No location',
     );
   }
